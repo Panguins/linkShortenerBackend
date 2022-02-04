@@ -1,0 +1,9 @@
+default_context:
+    project_name: "link_shortener"
+    app_name: "linkshortener"
+    python_version: "3.8"
+    admin_user_username: "panguins"
+    admin_user_email: "panguins@gmail.com"
+    admin_user_password: "zephyr111"
+    use_celery: "no"
+    wsgi_server: "gunicorn"
